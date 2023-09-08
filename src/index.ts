@@ -1,6 +1,6 @@
 #! /usr/bin/env node
 
-const quotes = [
+const quotes: string[] = [
   "Watch A Sunrise At Least Once A Day.",
   "If You Love Something, Set It Free. Unless It's A Tiger.",
   "If You Get Pulled Over For Speeding, Tell The Policeman Your Spouse Has Diarrhea.",
@@ -14,8 +14,8 @@ const quotes = [
   "Always look people in the eye, even if they're blind. Just say \"I'm looking you in the eye, but it doesn't seem to be doing much\"",
 ];
 
-const generate_random_quote = list => {
+const generate_random_quote = (list: string[]) => {
   return list[Math.floor((Math.random() * list.length))];
-}
+};
 
 console.log(generate_random_quote(quotes));
