@@ -1,6 +1,6 @@
 {
   "name": "phil-s-osophy",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Phil Dunphy's amazing life lessons from Mordern Family.",
   "main": "bin/index.js",
   "scripts": {
