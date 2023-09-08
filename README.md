@@ -1,5 +1,6 @@
-
 # Phil-s-osophy
+
+![Phil Dunphy image](https://media1.popsugar-assets.com/files/thumbor/UuFujXTvtrn0_9EUuMgLYHUgaJs/fit-in/728xorig/filters:format_auto-!!-:strip_icc-!!-/2014/08/15/813/n/1922283/857481de5c963df3_tumblr_mbvy6vp1VJ1qmjrxqo1_500/i/Even-More-Awesome-Reverse-Life-Advice.gif)
 
 Phil Dunphy's amazing life lesson from Mordern Family.
 
