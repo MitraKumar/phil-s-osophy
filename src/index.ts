@@ -18,4 +18,4 @@ const generate_random_quote = (list: string[]) => {
   return list[Math.floor((Math.random() * list.length))];
 };
 
-console.log(generate_random_quote(quotes))
+console.log(generate_random_quote(quotes));
