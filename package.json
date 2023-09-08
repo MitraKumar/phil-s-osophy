@@ -2,9 +2,12 @@
   "name": "phil-s-osophy",
   "version": "1.0.0",
   "description": "Phil Dunphy's amazing life lessons from Mordern Family.",
-  "main": "index.js",
+  "main": "bin/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node ./bin/index.js"
+  },
+  "bin": {
+    "phil-o-osophy": "./bin/index.js"
   },
   "repository": {
     "type": "git",
